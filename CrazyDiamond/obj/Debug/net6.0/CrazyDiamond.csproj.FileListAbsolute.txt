@@ -1,0 +1,30 @@
+E:\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.exe
+E:\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.deps.json
+E:\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.runtimeconfig.json
+E:\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.dll
+E:\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.pdb
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.csproj.AssemblyReference.cache
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.GeneratedMSBuildEditorConfig.editorconfig
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.AssemblyInfoInputs.cache
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.AssemblyInfo.cs
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.csproj.CoreCompileInputs.cache
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.dll
+E:\CrazyDiamond\obj\Debug\net6.0\refint\CrazyDiamond.dll
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.pdb
+E:\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.genruntimeconfig.cache
+E:\CrazyDiamond\obj\Debug\net6.0\ref\CrazyDiamond.dll
+E:\Lab 3\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.exe
+E:\Lab 3\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.deps.json
+E:\Lab 3\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.runtimeconfig.json
+E:\Lab 3\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.dll
+E:\Lab 3\CrazyDiamond\bin\Debug\net6.0\CrazyDiamond.pdb
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.csproj.AssemblyReference.cache
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.AssemblyInfoInputs.cache
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.AssemblyInfo.cs
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.csproj.CoreCompileInputs.cache
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.dll
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\refint\CrazyDiamond.dll
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.pdb
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\CrazyDiamond.genruntimeconfig.cache
+E:\Lab 3\CrazyDiamond\obj\Debug\net6.0\ref\CrazyDiamond.dll

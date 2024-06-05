@@ -1,0 +1,30 @@
+E:\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.exe
+E:\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.deps.json
+E:\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.runtimeconfig.json
+E:\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.dll
+E:\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.pdb
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.csproj.AssemblyReference.cache
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.AssemblyInfoInputs.cache
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.AssemblyInfo.cs
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.csproj.CoreCompileInputs.cache
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.dll
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\refint\CrazyDiamondRequiem.dll
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.pdb
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.genruntimeconfig.cache
+E:\CrazyDiamondRequiem\obj\Debug\net6.0\ref\CrazyDiamondRequiem.dll
+E:\Lab 3\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.exe
+E:\Lab 3\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.deps.json
+E:\Lab 3\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.runtimeconfig.json
+E:\Lab 3\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.dll
+E:\Lab 3\CrazyDiamondRequiem\bin\Debug\net6.0\CrazyDiamondRequiem.pdb
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.csproj.AssemblyReference.cache
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.AssemblyInfoInputs.cache
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.AssemblyInfo.cs
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.csproj.CoreCompileInputs.cache
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.dll
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\refint\CrazyDiamondRequiem.dll
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.pdb
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\CrazyDiamondRequiem.genruntimeconfig.cache
+E:\Lab 3\CrazyDiamondRequiem\obj\Debug\net6.0\ref\CrazyDiamondRequiem.dll
